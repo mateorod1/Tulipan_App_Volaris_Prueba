@@ -1,1 +1,8 @@
 streamlit
+scipy
+plotly
+pickle
+arviz
+pymc
+matplotlib
+seaborn
